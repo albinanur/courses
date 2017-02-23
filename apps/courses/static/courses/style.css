@@ -1,0 +1,29 @@
+input{
+	display: block;
+	margin-bottom: 20px;
+}
+textarea{
+	display: block;
+	margin-bottom: 30px;
+}
+.no{
+	display: inline-block;
+	width: 100px;
+	height: 18px;
+
+}
+.no:hover{
+	
+	background-color: red;
+}
+
+.red{
+	display: inline-block;
+	width: 200px;
+	height: 18px;
+
+}
+.red:hover{
+	background-color: red;
+
+}
